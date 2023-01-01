@@ -27,7 +27,7 @@ class _MyFabMenuState extends State<FabMenu>
     super.initState();
   }
 
-  Color bubbleBackgroundColor = Colors.cyan.shade200;
+  Color bubbleBackgroundColor = const Color.fromRGBO(97, 167, 167, 1);
 
   @override
   Widget build(BuildContext context) {
