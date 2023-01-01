@@ -163,7 +163,6 @@ class _FinishingTouchesState extends State<FinishingTouches> {
                     margin: const EdgeInsets.fromLTRB(10, 0, 10, 0),
                     child: Center(
                       child: Card(
-                        color: const Color.fromRGBO(231, 239, 239, 1),
                         elevation: 5,
                         shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(15.0)),

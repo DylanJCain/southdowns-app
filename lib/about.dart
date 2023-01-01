@@ -7,7 +7,7 @@ class About extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromRGBO(231, 239, 239, 1),
+      backgroundColor: Colors.grey.shade300,
       body: SafeArea(
         child: ListView(
           children: [
