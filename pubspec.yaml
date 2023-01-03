@@ -71,10 +71,10 @@ flutter:
      - assets/GuestRooms.jpg
      - assets/Suite1.jpg
      - assets/Suite2.jpg
-     - assets/Oct-2022-Feb-2023-web-555x555.jpg
-     - assets/CL-418-of-566-555x555.jpg
-     - assets/ML-Wed-432-555x555.jpg
-     - assets/craig_hannah_wedding-301-WEB-555x555.jpg
+     - assets/offer1.jpg
+     - assets/offer2.jpg
+     - assets/offer3.jpg
+     - assets/offer4.jpg
      - assets/package1.jpg
      - assets/Sparkle-555x555.jpg
      - assets/IMG_1552-555x555.jpg
@@ -85,6 +85,7 @@ flutter:
      - assets/rooms.mp4
      - assets/pricing.mp4
      - assets/finishingtouches.mp4
+     - assets/Automatic.mp4
 
   #   - images/a_dot_ham.jpeg
 

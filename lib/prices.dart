@@ -145,7 +145,7 @@ class Offer1 extends StatelessWidget {
               const Padding(
                 padding: EdgeInsets.fromLTRB(0, 2, 0, 2),
                 child: Text(
-                  "October 2022 - Febuary 2023",
+                  "Whirlwind Weddings",
                   style: TextStyle(
                       fontSize: 16,
                       fontFamily: 'Trajan',
@@ -153,13 +153,13 @@ class Offer1 extends StatelessWidget {
                 ),
               ),
               const Image(
-                image: AssetImage('assets/Oct-2022-Feb-2023-web-555x555.jpg'),
+                image: AssetImage('assets/offer1.jpg'),
               ),
               const SizedBox(height: 10),
               Container(
                 margin: EdgeInsets.fromLTRB(5, 0, 5, 0),
                 child: const Text(
-                  "FOR JUST £4,850 INC VAT",
+                  "FROM JUST £4,500 INC VAT",
                   style: TextStyle(
                     fontFamily: 'Montserrat-regular',
                     fontWeight: FontWeight.bold,
@@ -172,7 +172,7 @@ class Offer1 extends StatelessWidget {
               Container(
                   margin: EdgeInsets.fromLTRB(5, 0, 5, 0),
                   child: const Text(
-                    "ALL MONDAYS TO THURSDAYS",
+                    "ALL REMAINING DATES NOW TO MARCH",
                     style: TextStyle(
                       fontFamily: 'Montserrat-regular',
                       fontWeight: FontWeight.bold,
@@ -188,7 +188,7 @@ class Offer1 extends StatelessWidget {
                     children: const [
                       Flexible(
                           child: Text(
-                        "Marry in the romantic months of October, November, December, January or February within the warm, welcoming atmosphere and beautiful surroundings of our manor house. Enjoy a reception drink as you are welcomed in from the cold, crisp winter day. This all-inclusive offer for just £4,850 inc VAT is based on 50 adult daytime guests including the wedding couple.",
+                        "WhirlWind Weddings - All remaining dates now to March From £4,500 Inc VAT These all-inclusive offer from just £4,500 inc VAT are based on 50 adult daytime guests including the wedding couple.",
                         textAlign: TextAlign.center,
                         style: TextStyle(fontFamily: 'Montserrat-Regular'),
                       ))
@@ -218,7 +218,7 @@ class Offer2 extends StatelessWidget {
               const Padding(
                 padding: EdgeInsets.fromLTRB(0, 2, 0, 2),
                 child: Text(
-                  "March 2023 - September 2023",
+                  "May 2023 - December 2023",
                   style: TextStyle(
                       fontSize: 16,
                       fontFamily: 'Trajan',
@@ -226,13 +226,13 @@ class Offer2 extends StatelessWidget {
                 ),
               ),
               const Image(
-                image: AssetImage('assets/CL-418-of-566-555x555.jpg'),
+                image: AssetImage('assets/offer2.jpg'),
               ),
               const SizedBox(height: 10),
               Container(
                 margin: EdgeInsets.fromLTRB(5, 0, 5, 0),
                 child: const Text(
-                  "FOR JUST £4,850 INC VAT",
+                  "FROM JUST £7000 INC VAT",
                   style: TextStyle(
                     fontFamily: 'Montserrat-regular',
                     fontWeight: FontWeight.bold,
@@ -245,7 +245,7 @@ class Offer2 extends StatelessWidget {
               Container(
                   margin: EdgeInsets.fromLTRB(5, 0, 5, 0),
                   child: const Text(
-                    "ALL MONDAYS TO THURSDAYS",
+                    "FRIDAYS & SATURDAYS",
                     style: TextStyle(
                       fontFamily: 'Montserrat-regular',
                       fontWeight: FontWeight.bold,
@@ -261,7 +261,7 @@ class Offer2 extends StatelessWidget {
                     children: const [
                       Flexible(
                           child: Text(
-                        "Book your wedding at Southdowns Manor for any Monday - Thursday from March 2023 until September 2023 March 2023 - Monday - Thursday £4,850 Inc VAT April 2023 - Monday - Thursdays £5,500 Inc VAT May, June & July 2023 Monday - Thursdays £6,500 Inc VAT August & September 2023 Monday - Thursday £7,000 Inc VAT These all-inclusive offers are all based on 50 adult daytime guests including the wedding couple.",
+                        "Book your wedding at Southdowns Manor for any Fridays & Saturday May 2023 - December 2023 These all-inclusive offers are all based on 50 adult daytime guests including the wedding couple.",
                         textAlign: TextAlign.center,
                         style: TextStyle(fontFamily: 'Montserrat-Regular'),
                       ))
@@ -291,7 +291,7 @@ class Offer3 extends StatelessWidget {
               const Padding(
                 padding: EdgeInsets.fromLTRB(0, 2, 0, 2),
                 child: Text(
-                  "Book your 2023 Wedding Today",
+                  "May 2023 - December 2023",
                   style: TextStyle(
                       fontSize: 16,
                       fontFamily: 'Trajan',
@@ -299,13 +299,13 @@ class Offer3 extends StatelessWidget {
                 ),
               ),
               const Image(
-                image: AssetImage('assets/ML-Wed-432-555x555.jpg'),
+                image: AssetImage('assets/offer3.jpg'),
               ),
               const SizedBox(height: 10),
               Container(
                 margin: EdgeInsets.fromLTRB(5, 0, 5, 0),
                 child: const Text(
-                  "2023 is the year to say 'I Do",
+                  "FROM JUST £5,000 INC VAT",
                   style: TextStyle(
                     fontFamily: 'Montserrat-regular',
                     fontWeight: FontWeight.bold,
@@ -318,7 +318,7 @@ class Offer3 extends StatelessWidget {
               Container(
                   margin: EdgeInsets.fromLTRB(5, 0, 5, 0),
                   child: const Text(
-                    "",
+                    "SUNDAYS - THURSDAY",
                     style: TextStyle(
                       fontFamily: 'Montserrat-regular',
                       fontWeight: FontWeight.bold,
@@ -334,7 +334,7 @@ class Offer3 extends StatelessWidget {
                     children: const [
                       Flexible(
                           child: Text(
-                        "Book your wedding in 2023 wedding today:- \nWinter weddings from £4,900 Inc VAT\nSpring weddings from £7,900 Inc VAT\nSummer weddings from £8,500 Inc VAT\nAutumn weddings from £7,900 Inc VAT\nTop 5 Summer Weekend Available dates:-\nFriday 2nd June 2023 - £11,900 Inc VAT\nFriday 23rd June 2023 - £11,900 Inc VAT\nSaturday 15th July 2023 - £11,900 Inc VAT\nSaturday 12th August 2023 - £12,900 Inc VAT\nSaturday 23rd September 2023 - £12,900 Inc VAT\nIncluded in all the above offers:- Exclusive use of Southdowns Manor and grounds Use of the Changing Room from 10am Wedding and Events Manager to help plan your day Cream or red aisle carpet Sparkling wine or bottled lager served after the ceremony Use of our log fire Three Course Wedding Breakfast with a variety to choose from Half a bottle of wine per guest A glass of bubbles for each adult guest for your speeches Country style evening buffet All bar and waiting staff needed for your day Use of our crystal centrepieces for your table decorations Sash of your choice of colour for the chairs All table linen and crockery, cutlery and glassware Easel for your table plan PA system Luxurious Honeymoon Suite with full English breakfast the next morning These offers are based on 50 guests, including the wedding couple and is not to be missed - be sure to get in touch sooner rather than later to avoid missing out! Our expert team are always on hand to ensure your wedding dreams become a reality, so don't hesitate to get in touch today!",
+                        "Book your wedding at Southdowns Manor for any Sunday -Thursday from May 2023 - December 2023 These all-inclusive offers are all based on 50 adult daytime guests including the wedding couple.",
                         textAlign: TextAlign.center,
                         style: TextStyle(fontFamily: 'Montserrat-Regular'),
                       ))
@@ -372,14 +372,13 @@ class Offer4 extends StatelessWidget {
                 ),
               ),
               const Image(
-                image: AssetImage(
-                    'assets/craig_hannah_wedding-301-WEB-555x555.jpg'),
+                image: AssetImage('assets/offer4.jpg'),
               ),
               const SizedBox(height: 10),
               Container(
                 margin: EdgeInsets.fromLTRB(5, 0, 5, 0),
                 child: const Text(
-                  "FROM £7,900 INC VAT - Two Nights included",
+                  "FROM £7,500 INC VAT - Two Nights included",
                   style: TextStyle(
                     fontFamily: 'Montserrat-regular',
                     fontWeight: FontWeight.bold,
@@ -408,7 +407,7 @@ class Offer4 extends StatelessWidget {
                     children: const [
                       Flexible(
                           child: Text(
-                        "Southdowns Manor is delighted to offer you the opportunity to extend your wedding to two special days. Upgrade to our two-night wedding and start your celebrations the afternoon before. Book your wedding on these dates:-\nThursday 13th / Friday 14th October 2022\nThursday 20th / Friday 21st October 2022\nWednesday 26th / Thursday 27th October 2022\nThursday 10th / Friday 11th November 2022\nThursday 17th / Friday 18th November 2022\nAll dates include 14 rooms for 28 people for the night before and the Wedding Day, plus the Honeymoon Suite on the Wedding Night. The Wedding Day is based on 50 adult daytime guests",
+                        "Southdowns Manor is delighted to offer you the opportunity to extend your wedding to two special days. Upgrade to our two-night wedding and start your celebrations the afternoon before. Offer includes 14 rooms for 28 people for the night before and the Wedding Day, plus the Honeymoon Suite on the Wedding Night. The Wedding Day is based on 50 adult daytime guests ",
                         textAlign: TextAlign.center,
                         style: TextStyle(fontFamily: 'Montserrat-Regular'),
                       ))
