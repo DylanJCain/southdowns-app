@@ -15,7 +15,7 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   // initializing video player
   final VideoPlayerController videoPlayerController =
-      VideoPlayerController.asset("assets/Automatic.mp4");
+      VideoPlayerController.asset("assets/home.mp4");
 
   ChewieController? chewieController;
 
